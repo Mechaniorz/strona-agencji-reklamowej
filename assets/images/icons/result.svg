@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 65.62 56.91" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.a {
+        fill: #46525b;
+      }
+      .b {
+        fill: #e0e1e1;
+      }
+      .c {
+        fill: #f05e59;
+      }
+      .d {
+        fill: #fbbb29;
+      }
+      .e {
+        fill: #4bb649;
+      }
+      .f {
+        opacity: 0.5;
+      }
+      .g {
+        fill: #fff;
+      }
+      .h {
+        opacity: 0.3;
+      }
+      .i {
+        fill: #576773;
+      }
+      .j {
+        fill: #9dbf3b;
+      }</style>
+</defs>
+<title>projektygraficzne</title>
+<rect class="a" y="3.71" width="41.08" height="50.73"/>
+<rect class="b" width="41.08" height="3.75"/>
+<path class="c" d="M3.17,1.88a.74.74,0,1,1-.73-.74A.73.73,0,0,1,3.17,1.88Z"/>
+<path class="d" d="M5.74,1.88A.74.74,0,1,1,5,1.14.73.73,0,0,1,5.74,1.88Z"/>
+<path class="e" d="M8.28,1.88a.74.74,0,1,1-.74-.74A.74.74,0,0,1,8.28,1.88Z"/>
+<g class="f">
+<rect class="g" x="3.09" y="28.22" width="8.55" height=".95"/>
+<rect class="g" x="6.01" y="31.05" width="6.62" height=".95"/>
+<rect class="g" x="14.8" y="31.05" width="6.43" height=".95"/>
+<rect class="g" x="23.1" y="31.05" width="6.43" height=".95"/>
+<rect class="g" x="6.01" y="35.9" width="6.99" height=".95"/>
+<rect class="g" x="15.07" y="35.9" width="5.16" height=".95"/>
+<rect class="g" x="22.04" y="35.9" width="5.16" height=".95"/>
+<rect class="g" x="6.01" y="33.5" width="4.65" height=".95"/>
+<rect class="g" x="12.62" y="33.5" width="4.88" height=".95"/>
+<rect class="g" x="19.16" y="33.5" width="8.04" height=".95"/>
+<rect class="g" x="3.09" y="16.61" width="8.55" height=".95"/>
+<rect class="g" x="6.01" y="19.45" width="12.63" height=".95"/>
+<rect class="g" x="20.22" y="19.45" width="6.46" height=".95"/>
+<rect class="g" x="6.01" y="24.3" width="9.3" height=".95"/>
+<rect class="g" x="17.8" y="24.3" width="6.84" height=".95"/>
+<rect class="g" x="6.01" y="21.89" width="6.62" height=".95"/>
+<rect class="g" x="15.03" y="21.89" width="5.11" height=".95"/>
+<rect class="g" x="22.09" y="21.89" width="5.11" height=".95"/>
+<rect class="g" x="3.48" y="9.63" width="10.14" height=".95"/>
+<rect class="g" x="16.11" y="9.63" width="8.05" height=".95"/>
+<rect class="g" x="3.48" y="12.08" width="8.49" height=".95"/>
+<rect class="g" x="13.78" y="12.08" width="7.52" height=".95"/>
+<rect class="g" x="3.09" y="41.51" width="8.55" height=".95"/>
+<rect class="g" x="6.01" y="44.35" width="12.63" height=".95"/>
+<rect class="g" x="20.22" y="44.35" width="6.46" height=".95"/>
+<rect class="g" x="6.01" y="46.8" width="6.62" height=".95"/>
+<rect class="g" x="15.03" y="46.8" width="5.11" height=".95"/>
+<rect class="g" x="22.09" y="46.8" width="5.11" height=".95"/>
+</g>
+<polygon class="g" points="52.76 12.97 57.59 14.36 57.59 56.91 18.91 56.91 18.91 12.97"/>
+<polygon class="b" points="52.28 9.26 18.92 9.26 18.92 13.01 53.29 13.01"/>
+<polygon class="g" points="52.98 12 29.02 12 29.02 10.23 52.46 10.23"/>
+<path class="c" d="M22.08,11.13a.73.73,0,1,1-.73-.73A.73.73,0,0,1,22.08,11.13Z"/>
+<path class="d" d="M24.65,11.13a.73.73,0,1,1-.73-.73A.74.74,0,0,1,24.65,11.13Z"/>
+<path class="e" d="M27.19,11.13a.73.73,0,1,1-1.46,0,.73.73,0,0,1,1.46,0Z"/>
+<polygon class="a" points="57.61 14.57 52.29 14.57 52.28 9.26"/>
+<g class="h">
+<polygon class="i" points="57.61 19.89 57.61 14.57 52.29 14.57"/>
+</g>
+<rect class="a" x="39" y="42.52" width="15.55" height="8.78"/>
+<path class="g" d="M46.88,44.1H44.1v1.72h.49v-.24a1,1,0,0,1,1-1h.77v4.57h-1v.55h2.82v-.55h-1V44.59H48a1,1,0,0,1,1,1v.24h.49V44.1Z"/>
+<rect class="j" x="21.88" y="42.52" width="15.3" height="8.78"/>
+<polygon class="g" points="28.46 49.14 28.46 44.37 31.75 46.76"/>
+<rect class="j" x="22.04" y="16.56" width="32.62" height="2.73"/>
+<path class="a" d="M53.93,36.38H22.44V24.56H53.93Zm-30.86-.63H53.3V25.19H23.07Z"/>
+<rect class="g" x="21.45" y="23.63" width="2.6" height="2.6"/>
+<path class="a" d="M24.37,26.55H21.13V23.31h3.24Zm-2.6-.63h2V24h-2Z"/>
+<rect class="g" x="21.45" y="34.76" width="2.6" height="2.6"/>
+<path class="a" d="M24.37,37.68H21.13V34.45h3.24Zm-2.6-.63h2v-2h-2Z"/>
+<rect class="g" x="52.31" y="23.63" width="2.6" height="2.6"/>
+<path class="a" d="M55.23,26.55H52V23.31h3.24Zm-2.6-.63h2V24h-2Z"/>
+<rect class="g" x="52.31" y="34.76" width="2.6" height="2.6"/>
+<path class="a" d="M55.23,37.68H52V34.45h3.24Zm-2.6-.63h2v-2h-2Z"/>
+<polygon class="i" points="65.62 41.02 54.6 36.73 58.88 47.76 61.48 44.38 63.98 46.87 64.74 46.11 62.24 43.62"/>
+</svg>

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59.95 57">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: #3e3e3f;
+      }
+
+      .c {
+        fill: #cfd3d4;
+      }
+
+      .d {
+        fill: #b6bcbd;
+      }
+
+      .e {
+        fill: #5b5c5f;
+      }
+
+      .f {
+        fill: #fbe158;
+      }
+
+      .g {
+        fill: #9dd83b;
+      }
+
+      .h {
+        fill: #059bbf;
+      }
+
+      .i {
+        fill: #facb1b;
+      }
+
+      .j {
+        fill: #21b2d1;
+      }
+
+      .k {
+        fill: #fa5655;
+      }
+
+      .l {
+        fill: #f0f1f1;
+      }
+    </style>
+  </defs>
+  <title>obslugaposprzedazowa</title>
+  <rect class="a" x="21.46" y="5.68" width="38.49" height="51.32" rx="3.21" ry="3.21"/>
+  <rect class="b" x="24.66" y="10.49" width="32.08" height="38.49"/>
+  <circle class="c" cx="40.7" cy="52.99" r="1.6"/>
+  <g>
+    <path class="d" d="M45.51,34A1.07,1.07,0,1,1,44.44,33,1.06,1.06,0,0,1,45.51,34Z"/>
+    <rect class="d" x="47.92" y="33.75" width="4.01" height="0.8"/>
+  </g>
+  <g>
+    <path class="d" d="M45.51,39.09A1.07,1.07,0,1,1,44.44,38,1.07,1.07,0,0,1,45.51,39.09Z"/>
+    <rect class="d" x="47.92" y="38.83" width="4.01" height="0.8"/>
+  </g>
+  <circle class="b" cx="40.7" cy="8.09" r="0.8"/>
+  <polygon class="e" points="24.67 40.97 55.14 10.5 24.67 10.5 24.67 40.97"/>
+  <rect class="f" x="30.28" y="22.52" width="4.81" height="5.61"/>
+  <rect class="g" x="38.3" y="19.31" width="4.81" height="8.82"/>
+  <rect class="h" x="47.12" y="15.3" width="4.81" height="12.83"/>
+  <g>
+    <circle class="i" cx="34.29" cy="37.76" r="6.42"/>
+    <path class="g" d="M40.7,37.76a6.41,6.41,0,0,1-12.36,2.4l11.85-4.93A6.42,6.42,0,0,1,40.7,37.76Z"/>
+    <path class="j" d="M40.71,37.76a6.4,6.4,0,0,1-2.94,5.39L34.3,37.69l5.9-2.46A6.46,6.46,0,0,1,40.71,37.76Z"/>
+    <path class="k" d="M40.19,35.23l-5.9,2.46V31.34A6.45,6.45,0,0,1,40.19,35.23Z"/>
+  </g>
+  <path class="g" d="M8,19.42a1.9,1.9,0,0,0,2,1.76h12l6,5.3v-5.3h2a1.9,1.9,0,0,0,2-1.76V5.3a1.9,1.9,0,0,0-2-1.77H10A1.9,1.9,0,0,0,8,5.3Z"/>
+  <path class="l" d="M24.06,15.89a1.9,1.9,0,0,1-2,1.76H10L4,23v-5.3H2a1.9,1.9,0,0,1-2-1.76V1.77A1.9,1.9,0,0,1,2,0H22.05a1.9,1.9,0,0,1,2,1.77Z"/>
+  <path class="a" d="M23.73.79A2.12,2.12,0,0,0,22.05,0H2A1.9,1.9,0,0,0,0,1.77V15.89a1.9,1.9,0,0,0,2,1.76H4v.5Z"/>
+  <ellipse class="g" cx="6.01" cy="8.83" rx="2" ry="1.77"/>
+  <ellipse class="g" cx="12.03" cy="8.83" rx="2" ry="1.77"/>
+  <ellipse class="g" cx="18.04" cy="8.83" rx="2" ry="1.77"/>
+</svg>

@@ -1,0 +1,142 @@
+<svg class="box__icon internet-shops" viewBox="0 0 64.55 36.44" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+    <style>.internet-shops--a {
+            fill: #e2e4e5;
+          }
+          .internet-shops--b {
+            fill: #f0f1f1;
+          }
+          .internet-shops--c {
+            fill: #3e3e3f;
+          }
+          .internet-shops--d {
+            fill: #5b5c5f;
+          }
+          .internet-shops--e {
+            fill: #fff;
+          }
+          .internet-shops--f {
+            fill: #9dbf3b;
+          }
+          .internet-shops--g {
+            opacity: 0.6;
+          }
+          .internet-shops--h {
+            fill: #46525b;
+          }
+          .internet-shops--i {
+            fill: #576773;
+          }
+          .internet-shops--j {
+            fill: #bcb8be;
+          }
+          .internet-shops--k {
+            fill: #b6c7d7;
+          }
+          .internet-shops--l {
+            fill: #94adc3;
+          }
+          .internet-shops--m {
+            fill: #fff5dc;
+          }
+          .internet-shops--n {
+            fill: #e5d9c0;
+          }
+          .internet-shops--o {
+            fill: #ffd45b;
+          }
+          .internet-shops--p {
+            fill: #a5cd39;
+          }
+          .internet-shops--q {
+            fill: #aacf37;
+          }
+          .internet-shops--r {
+            fill: #3d444a;
+          }
+          .internet-shops--s {
+            fill: #7fbe42;
+          }
+          .internet-shops--t {
+            fill: #e6ecf0;
+          }
+          .internet-shops--u {
+            fill: #cedae5;
+          }</style>
+    </defs>
+    <title>Sklepy internetowe</title>
+    <path class="internet-shops--a" transform="translate(0)" d="M56.48,4.17a4,4,0,0,0-4-4H12.1a4,4,0,0,0-4,4V30.39H56.48Z"/>
+    <path class="internet-shops--b" transform="translate(0)" d="M0,30.39v2a13.78,13.78,0,0,0,9.74,4H54.81a13.78,13.78,0,0,0,9.74-4v-2Z"/>
+    <rect class="internet-shops--c" x="12.1" y="4.17" width="40.34" height="26.22"/>
+    <polygon class="internet-shops--d" points="12.1 30.31 38.25 4.17 12.1 4.17"/>
+    <rect class="internet-shops--a" x="27.23" y="31.13" width="10.09" height="2.02"/>
+    <rect class="internet-shops--e" x="37.51" y="8.03" width="1.26" height="1.26"/>
+    <rect class="internet-shops--e" x="30.06" y="15.68" width="1.26" height="1.26"/>
+    <rect class="internet-shops--e" x="44.95" y="15.68" width="1.26" height="1.26"/>
+    <path class="internet-shops--e" transform="translate(0)" d="M48.28,30.39H26.92q0-14.16,0-28.33L37.21.37,48.28,2.06Z"/>
+    <path class="internet-shops--b" transform="translate(0)" d="M50.33,0H29a2.06,2.06,0,0,0-2.06,2.06H52.39A2.06,2.06,0,0,0,50.33,0Z"/>
+    <path class="internet-shops--e" transform="translate(0)" d="m26.91 2.06a2.06 2.06 0 0 1 4.12 0z"/>
+    <path class="internet-shops--f" transform="translate(0)" d="M52.44,12.65V30.39H34.7Zm-2.66,6.42-8.66,8.66h8.66Z"/>
+    <g class="internet-shops--g">
+    <rect class="internet-shops--h" x="36.82" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="40.34" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="38.58" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="37.7" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="39.46" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="43.85" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="42.1" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="41.22" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="42.97" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="47.37" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="45.61" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="44.73" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="46.49" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="50.89" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="49.13" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="48.25" y="29.75" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="50.01" y="29.75" width=".17" height=".63"/>
+    </g>
+    <g class="internet-shops--g">
+    <rect class="internet-shops--h" x="51.82" y="28.8" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="25.28" width=".63" height=".17"/>
+    <rect class="internet-shops--h" transform="translate(24.91 79.21) rotate(-89.89)" x="52.05" y="26.81" width=".17" height=".63"/>
+    <rect class="internet-shops--h" x="51.82" y="27.92" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="26.16" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="21.76" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="23.52" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="24.4" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="22.64" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="18.25" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="20.01" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="20.89" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="19.13" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="14.73" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="16.49" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="17.37" width=".63" height=".17"/>
+    <rect class="internet-shops--h" x="51.82" y="15.61" width=".63" height=".17"/>
+    </g>
+    <polygon class="internet-shops--i" points="25.41 2.76 25.41 7.29 23.46 7.29 23.46 4.71"/>
+    <path class="internet-shops--j" transform="translate(0)" d="M25.41,3.5V8.9h-.67V8a.12.12,0,0,0-.13-.12.12.12,0,0,0-.12.12v.9h-.65V8.15l-.38-.35V5.45Z"/>
+    <rect class="internet-shops--k" x="23.83" y="11.23" width="1.56" height="19.16"/>
+    <rect class="internet-shops--k" x="23.82" y="8.81" width="1.58" height="2.64"/>
+    <rect class="internet-shops--l" x="23.83" y="9.49" width=".55" height="20.9"/>
+    <rect class="internet-shops--i" x="23.45" y="10.63" width="2.32" height="6.06"/>
+    <path class="internet-shops--k" d="M23.62,8.77h2A.18.18,0,0,1,25.8,9v1.49a.18.18,0,0,1-.18.18h-2a.19.19,0,0,1-.19-.19V9A.18.18,0,0,1,23.62,8.77Z"/>
+    <path class="internet-shops--l" transform="translate(0)" d="M23.62,8.77h.47v1.86h-.47a.2.2,0,0,1-.19-.19V9A.19.19,0,0,1,23.62,8.77Z"/>
+    <rect class="internet-shops--l" x="23.43" y="9.04" width="2.36" height=".1"/>
+    <rect class="internet-shops--l" x="23.43" y="10.25" width="2.36" height=".1"/>
+    <path class="internet-shops--h" transform="translate(0)" d="M26.24,29.67a.73.73,0,0,0,.73.72h0a.72.72,0,0,0,.72-.72V28.26H26.24Z"/>
+    <polygon class="internet-shops--m" points="27.67 4.52 26.97 2.7 26.27 4.51 26.98 27.98"/>
+    <polygon class="internet-shops--n" points="27.67 4.52 26.97 2.7 27.28 4.49 27.47 4.98"/>
+    <polygon class="internet-shops--o" points="27.69 4.45 26.94 5.08 26.24 4.45 26.24 28.48 27.69 28.48"/>
+    <path class="internet-shops--o" transform="translate(0)" d="M26.67,28.56v-24a.21.21,0,0,1,.21-.21h.17a.21.21,0,0,1,.21.21v24c0,.12-.09.5-.21.5h-.17C26.76,29.06,26.67,28.68,26.67,28.56Z"/>
+    <path class="internet-shops--p" transform="translate(0)" d="M27.26,28.56v-24a.21.21,0,0,1,.21-.21h0a.21.21,0,0,1,.21.21v24c0,.12-.09.5-.21.5h0C27.36,29.06,27.26,28.68,27.26,28.56Z"/>
+    <path class="internet-shops--q" transform="translate(0)" d="M26.24,28.43v-24s.1-.07.21-.07h0c.12,0,.21.09.21.07v24c0,.25-.09.63-.21.63h0C26.34,29.06,26.24,28.68,26.24,28.43Z"/>
+    <polygon class="internet-shops--r" points="26.97 2.56 27.3 3.55 26.64 3.55"/>
+    <path class="internet-shops--s" transform="translate(0)" d="M26.67,28.56v-24a.21.21,0,0,1,.21-.21h.17a.21.21,0,0,1,.21.21v24c0,.12-.09.5-.21.5h-.17C26.76,29.06,26.67,28.68,26.67,28.56Z"/>
+    <polygon class="internet-shops--t" points="26.86 28.28 27.69 28.28 27.69 29.11 26.24 29.11 26.24 28.28 26.86 28.28"/>
+    <rect class="internet-shops--u" transform="translate(-1.25 56.14) rotate(-89.94)" x="27.06" y="28.48" width=".83" height=".43"/>
+    <path class="internet-shops--d" transform="translate(0)" d="M43.35,11.57H34.41l-.78-1.82a.53.53,0,0,0-.49-.33H31.52A.54.54,0,0,0,31,10a.54.54,0,0,0,.53.54h.91a.52.52,0,0,1,.49.32l2.95,6.88a.54.54,0,0,0,.49.32h4.3a.54.54,0,1,0,0-1.07H37.07a.53.53,0,0,1-.49-.33l-.32-.75H41.2a.94.94,0,0,0,.78-.48l1.67-3.34A.31.31,0,0,0,43.35,11.57Z"/>
+    <circle class="internet-shops--d" cx="39.86" cy="19.37" r=".81"/>
+    <circle class="internet-shops--d" cx="36.83" cy="19.37" r=".81"/>
+</svg>
